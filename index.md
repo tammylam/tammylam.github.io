@@ -2,8 +2,6 @@
 layout: cv
 title: Tammy Lam's Resume
 ---
-
-
 ![Tammy](./media/.jpg){:.avatar}
 
 # Tammy Lam
@@ -18,9 +16,8 @@ Hybrid Mobile Applications Developer
 <a href="tel:8587762324">(858)776-2324 </a>
 </div>
 
-
 ## Currently
--
+Learning 
 
 ## Education
 
@@ -38,12 +35,11 @@ Bachelors of Arts, Human Development Class of 2016
 * Javascript
 * HTML/CSS
 
-
 ## Projects
+
 Change Calculator
 Railroad project
 Solar System Project
-
 
 ### __ <br> <i class="fa fa-github"></i> <a href = ""> GitHub <a> <i class="fa fa-github"></i>
 -
@@ -55,7 +51,7 @@ Solar System Project
 
 
 ## Work Experience
-__Homehealthcaretrainers.com__
+__Homecaretrainers.com__
 Intern
  
 __California Center for the Arts__
@@ -68,8 +64,6 @@ Tutor for 8th Grade Orchestra
 __UCSD Medical Center__ 
   Research assistant for Geriatric Psychiatry Unit
   
-
-
 ## Hobbies
 
 * Reading
